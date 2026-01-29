@@ -1,0 +1,10 @@
+{
+    "name": "asus/composer",
+    "authors": [
+        {
+            "name": "Saugat-Gr",
+            "email": "fangurung90@gmail.com"
+        }
+    ],
+    "require": {}
+}
